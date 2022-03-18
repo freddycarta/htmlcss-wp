@@ -84,9 +84,9 @@ a {
 }
 
 .footer {
-
     height: 150px;
-    margin-top: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 
 }
 
@@ -94,23 +94,6 @@ a {
 .col-middle img { width: 100%}
 .col-right img { width: 100%}
 
-.padder2 {
-    background-image: url(/img/banner-2.jpg);
-    height: 500px;
-}
 
-.img1 {
-    background-image: url(/img/img-2.jpg);
-    height: 500px;
-}
 
-.img3{
-    background-image: url(/img/img-3.jpg);
-    height: 500px;
-}
-
-.overlay {
-    background-color: transparent;
-   
-}
 
