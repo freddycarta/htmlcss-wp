@@ -28,12 +28,6 @@ a {
 
 
 
-
-.container2 {
-        background-color: #0086ff;
-    }
-
-
 .hero {
     margin-bottom: 20px;
     background-image: url("img/banner.jpg");
@@ -53,32 +47,33 @@ a {
 .col-left {
     background-color: lightblue;
     float: left;
-    height: 500px;
     width: calc(20% - 20px);
     margin-right: 20px;
     margin-bottom: 20px;
-    
+    background-color: white;
+
 
 }
 
 .col-middle {
     background-color: lightblue;
     float: left;
-    height: 500px;
     width: calc(60% - 40px);
     margin-right: 20px;
     margin-left: 20px;
-    margin-bottom: 20px;
+    padding-bottom: 30px;
+    background-color: white;
 
 }
 
 .col-right {
     background-color: lightblue;
     float: left;
-    height: 500px;
     width: calc(20% - 20px);
     margin-left: 20px;
     margin-bottom: 20px;
+    padding-bottom: 100px;
+    background-color: white;
     
 }
 
@@ -89,9 +84,15 @@ a {
 }
 
 .footer {
-    background-color: purple;
+
     height: 150px;
     margin-top: 20px;
 
 }
+
+.col-left img { width: 100%}
+.col-middle img { width: 100%}
+.col-right img { width: 100%}
+
+
 
