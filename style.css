@@ -36,14 +36,18 @@ a {
 
 .hero {
     margin-bottom: 20px;
-    background-image: url(../img/banner.jpg);
+    background-image: url("img/banner.jpg");
     background-position: center;
+    background-color: rosybrown;
+    padding: 20px;
+    padding-top: 300px;
 }
 
 .rettangolo {
     height: 100px;
-    background-color: lightblue;
     margin-bottom: 20px ;
+    background-color: white;
+    padding-left:  20px;
 
 }
 .col-left {
@@ -53,6 +57,7 @@ a {
     width: calc(20% - 20px);
     margin-right: 20px;
     margin-bottom: 20px;
+    
 
 }
 
